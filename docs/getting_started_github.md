@@ -8,7 +8,7 @@ Start on the [QMK GitHub page](https://github.com/qmk/qmk_firmware), and you'll 
 
 ![Fork on GitHub](http://i.imgur.com/8Toomz4.jpg)
 
-If you're a part of an organization, you'll need to choose which account to fork it to. In most circumstances, you'll want to fork it to your personal account. Once your fork is completed (sometimes this takes a little while), click the "Clone or Download" button:
+If you're a part of an organization, you'll need to choose which account to fork it to. In most circumstances, you'll want to fork it to your personal account. Once your fork is completed (sometimes this takes a little while), click the "Code" button:
 
 ![Download from GitHub](http://i.imgur.com/N1NYcSz.jpg)
 
